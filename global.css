@@ -1,3 +1,7 @@
+
+html{
+  font-size: 62.5%;
+}
 body {
     margin: 0;
     line-height: normal;
@@ -8,9 +12,9 @@ body {
     --font-inter: Inter;
   
     /* font sizes */
-    --font-size-2xs-7: 10.7px;
-    --font-size-smi-5: 12.5px;
-    --font-size-mini-3: 14.3px;
+    --font-size-2xs-7: 1.07rem;
+    --font-size-smi-5: 1.25rem;
+    --font-size-mini-3: 1.43rem;
   
     /* Colors */
     --neutral-10: #fff;
@@ -24,21 +28,21 @@ body {
     --label-color-light-primary: #000;
   
     /* Gaps */
-    --gap-5xs-2: 7.2px;
-    --gap-9xs-6: 3.6px;
-    --gap-11xs-8: 1.8px;
-    --gap-8xs-5: 4.5px;
+    --gap-5xs-2: 0.72rem;
+    --gap-9xs-6: 0.36rem;
+    --gap-11xs-8: 0.18rem;
+    --gap-8xs-5: 0.45rem;
   
     /* Paddings */
-    --padding-2xs-7: 10.7px;
-    --padding-mini-3: 14.3px;
-    --padding-5xs-1: 7.1px;
+    --padding-2xs-7: 1.07rem;
+    --padding-mini-3: 1.43rem;
+    --padding-5xs-1: 0.71rem;
   
     /* Border radiuses */
-    --br-16xl-7: 35.7px;
-    --br-9xs-6: 3.6px;
-    --br-4xs-9: 8.9px;
-    --br-2xs-7: 10.7px;
-    --br-lg: 18px;
+    --br-16xl-7: 3.57rem;
+    --br-9xs-6: 0.36rem;
+    --br-4xs-9: 0.89rem;
+    --br-2xs-7: 1.07rem;
+    --br-lg: 0.8rem;
   }
   
